@@ -1,5 +1,3 @@
-In the project directory, you can run:
-
 ### `Data init`
 
 ` const dataInfo = {
@@ -18,6 +16,8 @@ In the project directory, you can run:
         }
     }`
     box class name:sliding-box
+    
+In the project directory, you can run:
 ### `npm install`
 
 Clone package to local
