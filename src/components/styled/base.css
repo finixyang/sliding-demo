@@ -1,0 +1,14 @@
+.item-title {
+    width: 55%;
+    color: #0eb17a;
+    cursor: pointer;
+}
+
+.item-address {
+    width: 20%;
+}
+
+.item-time-span {
+    width: 25%;
+    text-align: right;
+}
