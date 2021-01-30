@@ -5,7 +5,7 @@
         slidingProps: {
             width: 600,//box width
             height: 40,//item height
-            listNum: 8,//default items (width = height * listNum)
+            listNum: 8,//default items (box height = height * listNum)
             listTitle: '最新职位',
             moreTitle: 'more'
         },
