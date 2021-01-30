@@ -15,6 +15,7 @@
             }
         }
     }`
+    
     box class name:sliding-box
     
 In the project directory, you can run:
